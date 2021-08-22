@@ -1,5 +1,4 @@
 # DayGrid
-## About
 A program that prints a calendar in a certain month and year. 
 
 ## Output
