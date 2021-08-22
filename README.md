@@ -3,5 +3,6 @@
 This program prints a calendar in a certain month and year. 
 
 ## Output
-![image](https://user-images.githubusercontent.com/59902126/130338912-74654790-a903-4ff4-8ed7-46fa2427cccc.png)
+![image](https://user-images.githubusercontent.com/59902126/130338923-b3bdfd3c-2995-4183-a556-a38533f9cb99.png)
+
 
