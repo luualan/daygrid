@@ -2,9 +2,7 @@ import java.util.Calendar;
 import java.util.GregorianCalendar;
 
 /*
-* Alan Luu
-* 10/16/2017
-* CSS 210 Assignment # 1 
+* Alan Luu 
 * this program prints a calendar in a certain month and year based on what the user enters 
 * into the parameter of the method called showGrid().  
 */
